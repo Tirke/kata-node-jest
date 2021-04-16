@@ -1,27 +1,8 @@
-# Kata Node.js Starter Project
+# Starter for TDD Katas
 
-__A starter project for coding kata in Node.js.__
-
-Minimal Node.js Starter for coding katas.
-
-## Tools
-- Jest for testing
-- Babel to enable nice things like `import` in Node
-
-## Getting Started
-
-### Install dependencies
-
-Before starting to code, don't forget to install all dependencies.
-
-```shell
-yarn
 ```
-
-### Running tests
-
-Run all tests once:
-
-```shell
+git clone https://github.com/Arsenalist/kata-node-jest.git
+cd kata-node-jest
+npm i
 npm test
 ```
