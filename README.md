@@ -23,5 +23,5 @@ yarn
 Run all tests once:
 
 ```shell
-npm test
+yarn test
 ```
